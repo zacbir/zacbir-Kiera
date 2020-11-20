@@ -166,9 +166,11 @@ time {
 }
 #left-page {
   text-align: left;
+  font-weight: bold;
 }
 #right-page {
   text-align: right;
+  font-weight: bold;
 }
 #left-arrow {
   float: left;
