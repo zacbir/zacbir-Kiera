@@ -123,6 +123,8 @@ time {
 
 #container p a {
   font-style: italic;
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
 
 #container main section#list ul {
