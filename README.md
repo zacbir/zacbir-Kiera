@@ -81,7 +81,7 @@ SITENAME = 'Site-Name'
 SITEURL = ''
 SITESUBTITLE = Site Subtitle'
 PATH = 'content'
-TIMEZONE = '###########/#######'
+TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
 THEME = 'themes/Peli-Kiera'
