@@ -76,6 +76,7 @@ Example `pelicanconf.py`
 from __future__ import unicode_literals
 
 AUTHOR = 'Author'
+COPYRIGHT = '2019'
 SITENAME = 'Site-Name'
 SITEURL = ''
 SITESUBTITLE = Site Subtitle'
