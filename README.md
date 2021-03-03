@@ -158,7 +158,7 @@ The pagination is presented with the current page and 3 neighboring pages on eit
 Images can be moved on page by adding the tag `#float-right`, `#float-left`, `#mid` and `#full` in your markdown.
 
 ```markdown
-![Title]({static}/images/my_image-600x400.png#float-right "")
+![Title]({static}/images/my_image-600x400.png#float-right "camera icon")
 ``` 
   
 Similarly, the placement can also be applied to html directly by wrapping images in a `<figure class="placement">` tag.
