@@ -5,6 +5,7 @@ Peli-Kiera is a theme for the Pelican static site generator.
 Thanks to the [Hugo-Kiera](https://github.com/avianto/hugo-kiera) project for the inspiration.
 ### Demo
 Live-Demo at [https://aleylara.github.io/Peli-Kiera](https://aleylara.github.io/Peli-Kiera)
+> If you like this theme, you may also like my new Pelican theme called [Papyrus](https://github.com/aleylara/Papyrus).
 ### Installation
 [Pelican-Docs](https://docs.getpelican.com/en/stable/) will guide you through the initial installation.
 Once inside the project directory, Peli-Kiera theme can be installed by cloning the repo into your 
