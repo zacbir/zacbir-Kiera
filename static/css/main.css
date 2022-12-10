@@ -15,7 +15,7 @@ h4,
 h5,
 h6,
 time {
-  font-family: "Lilita One", sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
 }
 
 #container {
@@ -77,7 +77,7 @@ time {
 #container nav {
   border-bottom: solid 3px #cecece;
   padding-bottom: 0.5em;
-  font-family: "Lilita One", sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
 }
 
 #container nav ul {
@@ -239,7 +239,7 @@ time {
 #container main section#home ul li aside,
 #container main article aside {
   margin: 0.5em 0;
-  font-family: "Lilita One", sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
   color: #909090;
   font-size: 0.8em;
 }
