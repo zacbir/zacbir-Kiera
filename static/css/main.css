@@ -5,6 +5,7 @@ body {
   padding: 0;
   overflow-x: hidden;
   font-family: "Alegreya", serif;
+  font-weight: 400;
   color: #333333;
 }
 
@@ -13,9 +14,14 @@ h2,
 h3,
 h4,
 h5,
-h6,
+h6 {
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+}
+
 time {
   font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
 }
 
 #container {
@@ -78,6 +84,7 @@ time {
   border-bottom: solid 3px #cecece;
   padding-bottom: 0.5em;
   font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
 }
 
 #container nav ul {
@@ -240,6 +247,7 @@ time {
 #container main article aside {
   margin: 0.5em 0;
   font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
   color: #909090;
   font-size: 0.8em;
 }
