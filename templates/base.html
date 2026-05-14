@@ -5,6 +5,10 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="{{ url }}">
+        <meta property="og:title" content="{{ title }}">
+        <meta property="og:description" content="{{ description }}">
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
         <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/static/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/static/favicon-32x32.png">
@@ -67,6 +71,12 @@
     {% block content %}
     {% endblock %}
     <footer>
+        <section class='section woodpanel' id='woodpanel'>
+            <div class='content'>
+                <script type="text/javascript" src='https://woodpaneled.org/scripts/onionring-variables.js'></script>
+                <script type="text/javascript" src="https://woodpaneled.org/scripts/onionring-widget.js"></script>
+            </div>
+        </section>
         <h6>
             Rendered by <a href="http://getpelican.com/">Pelican</a> &nbsp;&bull;&nbsp; Theme by <a
                 href="https://github.com/zacbir/zacbir-Kiera">my variant of Kiera</a> &nbsp;&bull;&nbsp; Copyright
